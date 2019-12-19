@@ -3,4 +3,5 @@
 	url = https://github.com/zezic/ZZC.git
 [submodule "link"]
 	path = link
-	url = https://github.com/zezic/link.git
+  url = https://github.com/zezic/link.git
+  branch = fix-mingw-build
