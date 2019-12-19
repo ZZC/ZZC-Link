@@ -1,6 +1,6 @@
 [submodule "ZZC"]
 	path = ZZC
-	url = git@github.com:zezic/ZZC.git
+	url = https://github.com/zezic/ZZC.git
 [submodule "link"]
 	path = link
-	url = git@github.com:Ableton/link.git
+	url = https://github.com/Ableton/link.git
