@@ -1,3 +1,6 @@
 [submodule "ZZC"]
 	path = ZZC
 	url = https://github.com/zezic/ZZC.git
+[submodule "link"]
+	path = link
+	url = https://github.com/zezic/link.git
